@@ -14,6 +14,7 @@ int main()
 	for (L=1; m <=n; L++)
 		m*=L;
 	cout << L << endl;
+	cout <<"The operation is done!" << endl;
 	goto met1;
 	return 0; 
 }
